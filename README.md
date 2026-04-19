@@ -43,4 +43,4 @@ O dashboard foi desenhado para ser operado por um gerente ou analista de risco:
 ## 👤 Autor
 
 João Paulo R. Souza — [github.com/jprsouza87](https://github.com/jprsouza87)
-streamlit run app.py
+
