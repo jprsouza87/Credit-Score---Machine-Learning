@@ -14,7 +14,7 @@ Este projeto simula uma ferramenta de mesa de crédito para instituições finan
 ## 🚀 Destaques Técnicos
 1. **Tratamento de Dados:** Tratamento de nulos em variáveis críticas como taxa de juros e tempo de emprego.
 2. **Machine Learning Bake-off:** Comparação entre 4 algoritmos (Regressão Logística, Árvore de Decisão, Random Forest e Gradient Boosting).
-3. **Foco no Negócio (Recall):** Seleção do modelo campeão baseada na capacidade de detectar inadimplentes (Recall de 77%) em vez de apenas acertos gerais (Acurácia), priorizando a segurança financeira.
+3. **Foco no Negócio (Recall):** Seleção do melhor modelo baseado na capacidade de detectar inadimplentes (Recall de 77%) em vez de apenas acertos gerais (Acurácia), priorizando a segurança financeira.
 4. **Pipeline de Produção:** Implementação de `ColumnTransformer` e `OneHotEncoder` para garantir que a aplicação web trate os dados exatamente como o modelo foi treinado.
 
 ---
